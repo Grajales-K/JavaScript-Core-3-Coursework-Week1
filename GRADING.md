@@ -16,4 +16,6 @@ If you have any questions on these guidelines - please ask.
 
 Your code should follow our Coding Standards or it will be marked poorly.
 
-https://syllabus.codeyourfuture.io/guides/code-style-guide
+https://syllabus.codeyourfuture.io/guides/code-style-guide. s
+
+have checked
